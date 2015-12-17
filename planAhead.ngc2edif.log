@@ -1,0 +1,44 @@
+Release 14.2 - ngc2edif P.28xd (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+Reading design vga_display.ngc ...
+WARNING:NetListWriters:298 - No output is written to vga_display.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus x_ball[10]_GND_1_o_mux_271_OUT<5 : 1> on
+   block vga_display is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus hitcount[6]_hitcount[6]_mux_290_OUT<6 :
+   1> on block vga_display is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus n0578<8 : 2> on block vga_display is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus GND_1_o_BUS_0020_mux_288_OUT<10 : 0> on
+   block vga_display is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus BUS_0025_GND_1_o_mux_305_OUT<9 : 0> on
+   block vga_display is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n0651_cy<10 : 7> on block
+   vga_display is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_y_play[10]_GND_1_o_add_368_OUT_cy<7
+   : 0> on block vga_display is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Madd_y_play[10]_GND_1_o_add_368_OUT_lut<8 : 1> on block vga_display is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   Msub_GND_1_o_GND_1_o_sub_366_OUT<10:0>_cy<7 : 3> on block vga_display is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n0683_lut<7 : 2> on block
+   vga_display is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n0718_cy<6 : 1> on block
+   vga_display is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n0718_lut<6 : 2> on block
+   vga_display is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n0720_lut<10 : 3> on block
+   vga_display is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file vga_display.edif ...
+ngc2edif: Total memory usage is 78156 kilobytes
+

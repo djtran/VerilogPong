@@ -1,0 +1,3 @@
+verilog work "vga_controller_640_60.v"
+verilog work "bin_to_4_led.v"
+verilog work "vga_display.v"
